@@ -1,6 +1,6 @@
 # GridSweeperAI
 
-The AI can beat minesweeper games including [Google's Minesweeper](https://www.google.com/fbx?fbx=minesweeper), [minesweeperonline.com](https://minesweeperonline.com/) and [minesweeper.online](https://minesweeper.online/) in exceedingly fast times, far faster than a human can.
+The AI can beat minesweeper games including [Google's Minesweeper](https://www.google.com/fbx?fbx=minesweeper), [minesweeperonline.com](https://minesweeperonline.com/) and [minesweeper.online](https://minesweeper.online/) in exceedingly fast times.
 
 
 There are two parts to this task: automating the reading and clicking, and creating an AI to choose what moves to make.
